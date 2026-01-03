@@ -43,7 +43,7 @@ npm run dev
 
 ## 🏗️ Tech Stack
 
-### **Option 1: Web App (Next.js)**
+### **Web App (Next.js)**
 - **Frontend**: Next.js 14 (React + TypeScript), Tailwind CSS
 - **Backend**: Next.js API Routes
 - **Database**: PostgreSQL with Prisma ORM
@@ -51,7 +51,7 @@ npm run dev
 - **Authentication**: NextAuth.js
 - **Charts**: Recharts
 
-### **Option 2: Mobile App (React Native)** ⭐ Recommended
+### **Mobile App (React Native)**
 - **Frontend**: React Native (Expo) + TypeScript, NativeWind (Tailwind)
 - **Backend**: Node.js/Express API (same backend can serve both web and mobile)
 - **Database**: PostgreSQL with Prisma ORM
